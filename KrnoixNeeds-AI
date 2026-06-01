@@ -1,0 +1,18 @@
+KrnoixNeeds-AI/
+│
+├── frontend/
+│   ├── index.html
+│   ├── chat.html
+│   ├── admin.html
+│   ├── style.css
+│   └── app.js
+│
+├── backend/
+│   ├── server.js
+│   ├── auth.js
+│   ├── products.json
+│   └── .env
+│
+├── package.json
+├── .gitignore
+└── README.md
